@@ -1,3 +1,11 @@
-body {
-    background: red;
+#unico-1{
+    color: blue;
+}
+
+.classe1 {
+    color: green;
+}
+
+p {
+    color: red;
 }
