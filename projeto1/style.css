@@ -1,11 +1,3 @@
-#unico-1{
-    color: blue;
-}
-
-.classe1 {
-    color: green;
-}
-
-p {
-    color: red;
+body {
+  background-color: white;
 }
