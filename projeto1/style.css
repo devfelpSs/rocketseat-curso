@@ -1,3 +1,11 @@
 body {
-  background-color: white;
+  /*
+  background-image: url(./assets/bg-mobile.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}*/
+
+  /*background*/
+  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
 }
